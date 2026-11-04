@@ -1,2 +1,2 @@
 # ClaudeTest
-Recieve and occured
+Receive and occurred
