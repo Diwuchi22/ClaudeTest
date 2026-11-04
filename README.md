@@ -1,2 +1,2 @@
 # ClaudeTest
-Revieve and occured
+Recieve and occured
